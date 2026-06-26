@@ -1,7 +1,3 @@
-# Initial Music Visualizations
-
-A template for publishing your data essay in GitHub pages
-
 ## Genre
 
 Firstly, I did a broad genre breakdown -- including any genre (not including rock subgenre, although this is a bit personally subjective since I did include new wave) that appeared more than once. 
